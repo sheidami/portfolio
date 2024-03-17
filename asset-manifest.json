@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.840a2eb0.css",
+    "main.js": "/portfolio/static/js/main.00b4c185.js",
+    "static/js/415.4d6acbeb.chunk.js": "/portfolio/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/weather.png": "/portfolio/static/media/weather.3bca67162908f488a4c5.png",
+    "static/media/shop.png": "/portfolio/static/media/shop.00508b7082f32b780266.png",
+    "static/media/empMan.png": "/portfolio/static/media/empMan.9c932e095be001efa576.png",
+    "static/media/chatRoom.png": "/portfolio/static/media/chatRoom.5fc8846118e66b2c7d68.png",
+    "static/media/image.png": "/portfolio/static/media/image.66d529ed7ae937c864c3.png",
+    "static/media/p1.jpg": "/portfolio/static/media/p1.7aba74c13b2e6d827e78.jpg",
+    "static/media/Resume_moazeni.pdf": "/portfolio/static/media/Resume_moazeni.9b54dd4a93b22211b0d0.pdf",
+    "static/media/home-main.svg": "/portfolio/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
+    "static/media/about.png": "/portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/Cover_letter_moazeni.pdf": "/portfolio/static/media/Cover_letter_moazeni.1d41c4096d62a1e90cbd.pdf",
+    "static/media/myBlog.png": "/portfolio/static/media/myBlog.161903ad52afad2ddcf4.png",
+    "static/media/home-bg.jpg": "/portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/ticTakToe.png": "/portfolio/static/media/ticTakToe.46bf68da0d1b8b0e0377.png",
+    "static/media/pre.svg": "/portfolio/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/portfolio/index.html",
+    "main.840a2eb0.css.map": "/portfolio/static/css/main.840a2eb0.css.map",
+    "main.00b4c185.js.map": "/portfolio/static/js/main.00b4c185.js.map",
+    "415.4d6acbeb.chunk.js.map": "/portfolio/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.840a2eb0.css",
+    "static/js/main.00b4c185.js"
+  ]
+}
